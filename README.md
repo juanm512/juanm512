@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full-Stack developer from Argentina</h3>
 
 - 🔭 I’m currently working on [Donatelo](https://donatelo.netlify.app/)
-- *and working on a enncoder-decoder for QOI image format (More info about that awesome work: [QOI web](https://qoiformat.org/))*
+*and working on a enncoder-decoder for QOI image format (More info about that awesome work: [QOI web](https://qoiformat.org/))*
 
 - 🌱 I’m currently learning **Machile Learning with TensorFlow**
 
