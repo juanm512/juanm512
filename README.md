@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Machile Learning with TensorFlow**
 
-- 🤝 I’m looking for help with [YOUTUBE NOTES](https://github.com/juanm512/YT-NOTES)
+- 🤝 I’m looking for help with [DONATELO](https://donatelo.netlify.app/)
 
 - 👨‍💻 All of my projects are available at [https://juanm512.github.io/portfolio/](https://juanm512.github.io/portfolio/)
 
