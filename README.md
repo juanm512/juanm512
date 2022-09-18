@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Juan Manuel Vila</h1>
 <h3 align="center">A passionate Full-Stack developer from Argentina</h3>
 
-- 🔭 I’m currently working on [Donatelo](https://donatelo.netlify.app/)
+- 🔭 I’m currently working on [VAS-ECOMMERCE](https://vas-ecommerce.vercel.app/)
 *and working on a encoder-decoder for QOI image format (More info about that awesome work: [QOI web](https://qoiformat.org/))*
 
-- 🌱 I’m currently learning **Machile Learning with TensorFlow**
-
-- 🤝 I’m looking for help with [DONATELO](https://donatelo.netlify.app/)
+- 🌱 I’m currently learning **Next. js**
 
 - 👨‍💻 All of my projects are available at [https://juanm512.github.io/portfolio/](https://juanm512.github.io/portfolio/)
 
