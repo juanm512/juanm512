@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [VAS-ECOMMERCE](https://vas-ecommerce.vercel.app/)
 *and working on a encoder-decoder for QOI image format (More info about that awesome work: [QOI web](https://qoiformat.org/))*
 
-- 🌱 I’m currently learning **Next. js**
+- 🌱 I’m currently learning **Next. js and TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://juanm512.github.io/portfolio/](https://juanm512.github.io/portfolio/)
 
