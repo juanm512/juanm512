@@ -1,5 +1,10 @@
 # 💫 About Me:
-<h1 align="center">Hi 👋, I'm Juan Manuel Vila</h1><br><h3 align="center">A passionate Full-Stack developer from Argentina</h3><br><br>- 🔭 I’m currently working on [VAS-ECOMMERCE](https://vas-ecommerce.vercel.app/)<br>*and working on a encoder-decoder for QOI image format (More info about that awesome work: [QOI web](https://qoiformat.org/))*<br><br>- 🌱 I’m currently learning **Next. js and TypeScript**<br><br>- 👨‍💻 All of my projects are available at [https://jmv-portfolio.vercel.app](https://jmv-portfolio.vercel.app)<br><br>- 📫 How to reach me **512juanm@gmail.com**
+<h1 align="center">Hi 👋, I'm Juan Manuel Vila</h1><br>
+<h3 align="center">A passionate Full-Stack developer from Argentina</h3><br><br>
+- 🔭 I’m currently working on [VAS-ECOMMERCE](https://vas-ecommerce.vercel.app/) <br>*and working on a encoder-decoder for QOI image format (More info about that awesome work: [QOI web](https://qoiformat.org/))* <br><br>
+- 🌱 I’m currently learning **TypeScript, Python(for ML) and Java**<br><br>
+- 👨‍💻 All of my projects are available at [https://jmv-portfolio.vercel.app](https://jmv-portfolio.vercel.app) <br><br>
+- 📫 How to reach me **512juanm@gmail.com**
 
 
 ## 🌐 Socials:
