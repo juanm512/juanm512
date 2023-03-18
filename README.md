@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Front-End developer from Argentina</h3><br><br>
 
 - 🔭 I’m currently working on <a href="https://bones-repository.vercel.app">Bones Repository</a> that show a 3D model of every human bone  <br>*and working on a [F1 react native app](https://github.com/juanm512/f1-stats) to show the actual season info * <br><br>
-- 🌱 I’m currently learning **React Native and Framer Motion**<br><br>
+- 🌱 I’m currently learning **React Native, GraphQL and Framer Motion**<br><br>
 - 👨‍💻 All of my projects are available in  [My Portfolio](https://jmv-portfolio.vercel.app) <br><br>
 - 📫 How to reach me *512juanm@gmail.com*
 
