@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🧒 About Me:
 <h1 align="center">Hi 👋, I'm Juan Manuel Vila</h1><br>
 
 <h3 align="center">A passionate Developer from Argentina</h3><br><br>
