@@ -1,10 +1,10 @@
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Juan Manuel Vila</h1><br>
 
-<h3 align="center">A passionate Front-End developer from Argentina</h3><br><br>
+<h3 align="center">A passionate Developer from Argentina</h3><br><br>
 
-- 🔭 I’m currently working on <a href="https://bones-repository.vercel.app">Bones Repository</a> that show a 3D model of every human bone  <br>*and working on a [F1 react native app](https://github.com/juanm512/f1-stats) to show the actual season info * <br><br>
-- 🌱 I’m currently learning **React Native, GraphQL and Framer Motion**<br><br>
+- 🔭 I’m currently working on <a href="https://bones-repository.vercel.app">Bones Repository</a> that show a 3D model of every human bone and muscle <br>*and working on a [Algorithm Solving page](https://github.com/juanm512/algo-lab) to show the solution of problems with some algorithms * <br><br>
+- 🌱 I’m currently learning and reading about **React Native, [Gaussian Splatting](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/) and [Rust](https://google.github.io/comprehensive-rust/es/welcome-day-1-afternoon.html)**<br><br>
 - 👨‍💻 All of my projects are available in  [My Portfolio](https://jmv-portfolio.vercel.app) <br><br>
 - 📫 How to reach me *512juanm@gmail.com*
 
