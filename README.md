@@ -8,6 +8,8 @@
 - 👨‍💻 All of my projects are available in  [My Portfolio](https://jmv-portfolio.vercel.app) <br><br>
 - 📫 How to reach me *512juanm@gmail.com*
 
+<img width="1009" height="469" alt="image" src="https://github.com/user-attachments/assets/964b4126-f55d-4987-92bd-2149cfcfe57e" />
+
 
 ## 🌐 Socials:
 **juanm512#5622** on ![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/juanmanuelvila) 
